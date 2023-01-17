@@ -1,0 +1,29 @@
+.drop_down{
+    background-color:#0303fc;
+    border-radius: 9px;
+    border:1px solid white;
+    padding: 2px;
+    text-align: center;
+    
+}
+.opt1{
+    background-color: aliceblue;
+    color: black;
+}
+.he1{
+    font-family:'Times New Roman', Times, serif;
+}
+.blue{
+    background-color: #0303fc;
+    text-align: center;
+    border:1px solid white;
+}
+.blue1{
+    background-color: #0303fc;
+    border-radius: 8px;
+    border:1px solid white;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    
+}

@@ -1,0 +1,22 @@
+.bag1{
+    width: 35px;color:#0303fc;height:25px;
+}
+.bag2{
+    font-size: larger;
+}
+.bag3{
+    width:35px;height: 25px;color:#0303fc;
+}
+.bag4{
+    width: 35px;height:25px;color:#0303fc;
+}
+.bag5{
+    background-color: #0303fc;
+    border-radius: 8px;
+    border:1px solid white;
+    height: 60px;
+    width: 200px;
+    text-align: center;
+    
+}
+    
